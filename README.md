@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on different AI projects
 - 📫 How to reach me , check me via Linkedin
-- 😄 Pronouns: Mr. He
+- 😄 Pronouns: Mr. , He
 - ⚡ Fun fact: I don't know how to swim
 
 <!---
