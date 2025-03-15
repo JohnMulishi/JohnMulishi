@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnMulishi
 - 👀 I’m interested in ARTIFICIAL INTELLIGENCE
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Python , JAVA and C++
 - 💞️ I’m looking to collaborate on different AI projects
 - 📫 How to reach me , check me via Linkedin
 - 😄 Pronouns: Mr. , He
